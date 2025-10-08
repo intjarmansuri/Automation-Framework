@@ -1,0 +1,13 @@
+tests\ProductSearchTest.class
+pages\ProductPage.class
+pages\LoginPage.class
+pages\HomePage.class
+pages\RegisterPage.class
+tests\LoginTest.class
+base\BaseTest.class
+tests\RegisterTest.class
+utilities\ExcelUtils.class
+tests\LoginTestDDT.class
+tests\LogoTest.class
+utilities\ExtentReportManager.class
+pages\AddToCart.class

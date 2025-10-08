@@ -1,0 +1,44 @@
+09:49:43.298 [main] INFO  tests.LoginTest - ---------- verifyLoginTest started ----------- 
+09:49:43.320 [main] DEBUG tests.LoginTest - This is a debug log message
+09:49:43.581 [main] INFO  tests.LoginTest - ----------- Click on My Account -------------
+09:49:43.900 [main] INFO  tests.LoginTest - ---------- Enter email and password ------------
+09:49:43.959 [main] INFO  tests.LoginTest -  ---------- Clicked on Signing Button ------------ 
+09:49:46.212 [main] INFO  tests.LoginTest -  -----------verifyLoginTest Finished ------------ 
+09:52:32.865 [main] INFO  tests.LoginTest - ---------- verifyLoginTest started ----------- 
+09:52:32.875 [main] DEBUG tests.LoginTest - This is a debug log message
+09:52:33.100 [main] INFO  tests.LoginTest - ----------- Click on My Account -------------
+09:52:33.411 [main] INFO  tests.LoginTest - ---------- Enter email and password ------------
+09:52:33.489 [main] INFO  tests.LoginTest -  ---------- Clicked on Signing Button ------------ 
+09:52:35.299 [main] INFO  tests.LoginTest -  -----------verifyLoginTest Finished ------------ 
+19:21:13.416 [main] INFO  tests.LoginTest - ========== Starting verifyLoginTest ==========
+19:21:13.426 [main] DEBUG tests.LoginTest - Creating HomePage object
+19:21:13.556 [main] INFO  tests.LoginTest - Clicked on 'My Account' successfully
+19:21:13.556 [main] DEBUG tests.LoginTest - Creating LoginPage object
+19:21:15.263 [main] INFO  tests.LoginTest - Entered email and password
+19:21:15.355 [main] INFO  tests.LoginTest - Clicked on Sign In button
+19:21:15.356 [main] DEBUG tests.LoginTest - Fetching welcome message from HomePage
+19:21:21.581 [main] DEBUG tests.LoginTest - Expected message: Welcome, Intjar! | Actual message: Welcome, Intjar!
+19:21:21.584 [main] INFO  tests.LoginTest - Login test passed successfully!
+19:21:21.584 [main] INFO  tests.LoginTest - ========== Finished verifyLoginTest ==========
+19:25:15.533 [main] INFO  tests.LoginTest - ========== Starting verifyLoginTest ==========
+19:25:15.536 [main] DEBUG tests.LoginTest - Creating HomePage object
+19:25:15.676 [main] INFO  tests.LoginTest - Clicked on 'My Account' successfully
+19:25:15.676 [main] DEBUG tests.LoginTest - Creating LoginPage object
+19:25:18.907 [main] INFO  tests.LoginTest - Entered email and password
+19:25:18.989 [main] INFO  tests.LoginTest - Clicked on Sign In button
+19:25:18.989 [main] DEBUG tests.LoginTest - Fetching welcome message from HomePage
+07:56:13.057 [main] INFO  tests.AddToCart - ========== Starting verifyAddToCartTest ==========
+07:56:13.154 [main] DEBUG tests.AddToCart - Initializing HomePage and LoginPage objects
+07:56:13.287 [main] INFO  tests.AddToCart - Clicked on 'My Account'
+07:56:13.699 [main] INFO  tests.AddToCart - Successfully entered credentials and clicked on Sign In
+07:56:13.699 [main] INFO  tests.AddToCart - Navigating to 'Smartphones and Gadgets' category
+08:00:27.383 [main] INFO  tests.AddToCart - ========== Starting verifyAddToCartTest ==========
+08:00:27.387 [main] DEBUG tests.AddToCart - Initializing HomePage and LoginPage objects
+08:00:27.519 [main] INFO  tests.AddToCart - Clicked on 'My Account'
+08:00:28.058 [main] INFO  tests.AddToCart - Successfully entered credentials and clicked on Sign In
+08:00:28.058 [main] INFO  tests.AddToCart - Navigating to 'Smartphones and Gadgets' category
+08:03:44.688 [main] INFO  tests.AddToCart - ========== Starting verifyAddToCartTest ==========
+08:03:44.690 [main] DEBUG tests.AddToCart - Initializing HomePage and LoginPage objects
+08:03:44.856 [main] INFO  tests.AddToCart - Clicked on 'My Account'
+08:03:45.407 [main] INFO  tests.AddToCart - Successfully entered credentials and clicked on Sign In
+08:03:50.423 [main] INFO  tests.AddToCart - Navigating to 'Smartphones and Gadgets' category
